@@ -1,0 +1,72 @@
+body {
+  color: #696969;
+  background-color: #DCDCDC;
+font-family: "times new roman", "Times", serif;
+font-size: 20px;
+}
+
+body {
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+}
+
+h1 {
+color: #696969;
+font-family: "times new roman", "Times", serif;
+font-size: 40px;
+}
+
+h1 {
+  background-color: #87CEFA;
+   margin-bottom: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.introdução {
+color: #808080;
+font-family: "times new roman", "Times", serif;
+font-size: 20px;
+}
+
+.sub {
+  color: black;
+  font-family: "times new roman", "Times", serif;
+  font-size: 20px;
+}
+
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+margin-top: 30px;
+}
+
+
+#moinho {
+  text-align: center;
+  float: right;
+  background-color:#87CEFA;
+  font-size: 20px;
+}
+
+#principado {
+  text-align: center;
+  float: right;
+  background-color: #87CEFA;
+  font-size: 20px;
+}
+
+#frutas {
+  text-align: center;
+  float: right;
+  background-color: #87CEFA;
+  font-size: 20px;
+  line-height: 0.5;
+}
